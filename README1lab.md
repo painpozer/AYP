@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3453621b-a4d4-45d4-be71-a9111e1effa3)**Задание 00**
+**Задание 00**
 
 Проделанная работа:
 
