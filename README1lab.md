@@ -1,4 +1,4 @@
-**Задание 00**
+![image](https://github.com/user-attachments/assets/3453621b-a4d4-45d4-be71-a9111e1effa3)**Задание 00**
 
 Проделанная работа:
 
@@ -21,5 +21,118 @@
 **Задание 02**
 
 Проделанная работа:
+
+правильным решением будет 1 * 2 + 3 + 4 * 5
+
+![image](https://github.com/user-attachments/assets/8507df5b-3ba2-48d2-afec-32b53f4e2b28)
+
+**Задание 03**
+
+Проделанная работа:
+
+вывели на консоль фильмы при помощи срезов и \n
+
+![image](https://github.com/user-attachments/assets/281350c7-27f3-43fc-8052-d10329370a12)
+
+**Задание 04**
+
+Проделанная работа:
+
+создаем список списков в членами семьи и их ростом(мать,отец,сын,дочь),затем выводим рост отца,а затем циклом суммируем рост всех членов семьи и выводим
+
+![image](https://github.com/user-attachments/assets/e8990cfc-ac1f-4491-8ebc-beeba4ff3d72)
+
+**Задание 05**
+
+Проделанная работа:
+
+используем метод insert для добавление медведя между львом и кенгуру,используем метод extend для добавления одного списка в другой, метод remove для исключения элемента из списка и метод index для вывода индекса элемента из списка(прибавляем единицу чтобы быть понятным простому человеку)
+
+
+![image](https://github.com/user-attachments/assets/7208f55f-e7a8-4445-9ce7-e464ba0c6fff)
+
+
+**Задание 06**
+
+Проделанная работа:
+
+с помощью индексов в списке списков выведем сумму трех песен,затем используем метод get чтобы по ключу определить значения в словаре и определить сумму трех других песен
+
+![image](https://github.com/user-attachments/assets/815f090b-9c58-4445-9bf2-de42b95ebf82)
+
+
+**Задание 07**
+
+Проделанная работа:
+
+с помощью подсказок и специально подсчитаных положительных и отрицательных индексов срезов выведем секретное сообщение
+
+![image](https://github.com/user-attachments/assets/de34e910-3662-49b5-a622-bc67721bdf8a)
+
+
+**Задание 08**
+
+Проделанная работа:
+
+с помощью метода set преобразуем кортежи в множества,обьединяем их при помощи метода union, выводим совпадения при помощи &, используем '-' чтобы вывести цветы,которые растут в одном месте,но не растут в другом
+
+![image](https://github.com/user-attachments/assets/c6e9a96b-a713-4c56-8c2d-261ad9dc66e8)
+
+
+**Задание 09**
+
+Проделанная работа:
+
+создаем словарь цен на продкты 
+
+![image](https://github.com/user-attachments/assets/42383926-7516-4511-a386-b2139c5fb11d)
+
+![image](https://github.com/user-attachments/assets/74011ac3-a80c-4947-a6c7-7f3fa69e9291)
+
+![image](https://github.com/user-attachments/assets/09e7645c-0693-4817-9316-2f6cc28267f3)
+
+![image](https://github.com/user-attachments/assets/f47bae43-de60-48a1-8798-abe70c324395)
+
+
+**Задание 10**
+
+Проделанная работа:
+
+
+для каждого товара сначала определяем его код,потом кол-во товаров в магазине и цену за штуку,а затем общую стоимость товара в магазине
+
+
+![image](https://github.com/user-attachments/assets/7f84150e-baad-4b2a-8fe6-d4e383d7dcd7)
+
+
+**Шпора**
+
+
+git init - инициализация репозитория  
+git add . - добавление файлов  
+git config --global user.email "s@s.s"  
+git config --global user.name "Name"  
+git remote add origin [repository] - добавление удаленного репозитория  
+git commit -m "comm"  
+git push -u origin main - отправка изменений
+
+
+** Список источников **
+
+https://stepik.org/learn
+https://translated.turbopages.org/proxy_u/en-ru.ru.0a32acc8-67acab61-6fdafd43-74722d776562/https/docs.python.org/3/reference/index.html
+https://stackoverflow.com/questions
+
+
+
+
+
+
+
+
+
+
+
+
 
 
