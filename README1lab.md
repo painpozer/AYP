@@ -1,4 +1,4 @@
-**Задание 00**
+# **Задание 00**
 
 Проделанная работа:
 
@@ -6,7 +6,7 @@
 
 ![Снимок экрана 2025-02-12 160403](https://github.com/user-attachments/assets/49819559-79c1-415c-81d1-ca3a5fa47be6)
 
-**Задание 01**
+# **Задание 01**
 
 Проделанная работа:
 
@@ -18,7 +18,7 @@
 
 ![image](https://github.com/user-attachments/assets/5a84ca48-dced-4de1-8d7a-3876bfaf9484)
 
-**Задание 02**
+# **Задание 02**
 
 Проделанная работа:
 
@@ -26,7 +26,7 @@
 
 ![image](https://github.com/user-attachments/assets/8507df5b-3ba2-48d2-afec-32b53f4e2b28)
 
-**Задание 03**
+# **Задание 03**
 
 Проделанная работа:
 
@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/281350c7-27f3-43fc-8052-d10329370a12)
 
-**Задание 04**
+# **Задание 04**
 
 Проделанная работа:
 
@@ -42,7 +42,7 @@
 
 ![image](https://github.com/user-attachments/assets/e8990cfc-ac1f-4491-8ebc-beeba4ff3d72)
 
-**Задание 05**
+# **Задание 05**
 
 Проделанная работа:
 
@@ -52,7 +52,7 @@
 ![image](https://github.com/user-attachments/assets/7208f55f-e7a8-4445-9ce7-e464ba0c6fff)
 
 
-**Задание 06**
+# **Задание 06**
 
 Проделанная работа:
 
@@ -61,7 +61,7 @@
 ![image](https://github.com/user-attachments/assets/815f090b-9c58-4445-9bf2-de42b95ebf82)
 
 
-**Задание 07**
+# **Задание 07**
 
 Проделанная работа:
 
@@ -70,7 +70,7 @@
 ![image](https://github.com/user-attachments/assets/de34e910-3662-49b5-a622-bc67721bdf8a)
 
 
-**Задание 08**
+# **Задание 08**
 
 Проделанная работа:
 
@@ -79,7 +79,7 @@
 ![image](https://github.com/user-attachments/assets/c6e9a96b-a713-4c56-8c2d-261ad9dc66e8)
 
 
-**Задание 09**
+# **Задание 09**
 
 Проделанная работа:
 
@@ -94,7 +94,7 @@
 ![image](https://github.com/user-attachments/assets/f47bae43-de60-48a1-8798-abe70c324395)
 
 
-**Задание 10**
+# **Задание 10**
 
 Проделанная работа:
 
@@ -105,7 +105,7 @@
 ![image](https://github.com/user-attachments/assets/7f84150e-baad-4b2a-8fe6-d4e383d7dcd7)
 
 
-**Шпора**
+# **Шпора**
 
 
 git init - инициализация репозитория  
@@ -117,7 +117,7 @@ git commit -m "comm"
 git push -u origin main - отправка изменений
 
 
-** Список источников **
+# ** Список источников **
 
 https://stepik.org/learn
 https://translated.turbopages.org/proxy_u/en-ru.ru.0a32acc8-67acab61-6fdafd43-74722d776562/https/docs.python.org/3/reference/index.html
